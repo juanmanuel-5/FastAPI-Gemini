@@ -18,7 +18,7 @@ if not API_KEY:
     raise RuntimeError("Falta GEMINI_API_KEY. Créala en el archivo .env (mira .env.ejemplo)")
 
 MODELO = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
-ORIGENES = os.getenv("ALLOWED_ORIGINS", "https://fastapi-gemini-ehti.onrender.com").split(",")
+ORIGENES = os.getenv("ALLOWED_ORIGINS", "https://fastapi-gemini-1.onrender.com").split(",")
 
 client = genai.Client(api_key=API_KEY)
 
