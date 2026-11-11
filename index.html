@@ -22,7 +22,7 @@
       cont.textContent = "Cocinando… ⏳";
 
       try {
-        const resp = await fetch("http://127.0.0.1:8000/recetas/generar?tipo=" + encodeURIComponent(tipo));
+        const resp = await fetch("https://fastapi-gemini-ehti.onrender.com/recetas/generar?tipo=" + encodeURIComponent(tipo));
         if (!resp.ok) throw new Error("Error " + resp.status);
         const recetas = await resp.json();
 

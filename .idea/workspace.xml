@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="ensemble" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1ddf588b-9a74-427b-8e1f-8097e5c8280e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/home/juanmanuel/Projects/FastAPI-Gemini" value="3LxvJR6QDkrezCWYlde8LqeJJi7" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0001001396273594" />
+      <entry key="MS500" value="1.299738309730038" />
+      <entry key="S2" value="2.611813891364836" />
+      <entry key="S5" value="3.3288229466568917" />
+      <entry key="S10" value="3.641001060319252" />
+      <entry key="S30" value="3.8746757526668927" />
+      <entry key="S60" value="3.9366317069516956" />
+      <entry key="M2" value="3.9796984023634083" />
+      <entry key="M5" value="4.750524596251128" />
+      <entry key="M10" value="7.72312559489967" />
+      <entry key="M15" value="11.119676124925492" />
+      <entry key="M30" value="20.273449213486014" />
+      <entry key="H1" value="31.197663998885744" />
+      <entry key="H2" value="40.16907408884225" />
+      <entry key="H4" value="46.00309034044888" />
+      <entry key="D1" value="51.74293920649841" />
+      <entry key="W1" value="52.818047354421225" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.1869103677380209" />
+      <entry key="MS500" value="0.9650425678690524" />
+      <entry key="S2" value="2.45230578746901" />
+      <entry key="S5" value="3.248402196583149" />
+      <entry key="S10" value="3.5971324202901545" />
+      <entry key="S30" value="3.8591349729600988" />
+      <entry key="S60" value="3.928739323900801" />
+      <entry key="M2" value="3.975718440220072" />
+      <entry key="M5" value="4.748846564899928" />
+      <entry key="M10" value="7.72209099448531" />
+      <entry key="M15" value="11.118809461388944" />
+      <entry key="M30" value="20.272757644496913" />
+      <entry key="H1" value="31.197161756031846" />
+      <entry key="H2" value="40.16875904494886" />
+      <entry key="H4" value="46.00291214151525" />
+      <entry key="D1" value="51.74290612945268" />
+      <entry key="W1" value="52.81804253896187" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LxmIgXv2oLhYySMnpW1QUAsrVx" />
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="ensembleEnabled" value="false" />
+        <option name="ensembleTierId" value="balance" />
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/juanmanuel/Projects/EC/UT4 - Funciones/Flask website",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-56aff7b04f6f-JavaScript-PY-263.7307.206" />
+        <option value="bundled-python-sdk-34611be1ca5a-e0583fc556d1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-263.7307.206" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ddf588b-9a74-427b-8e1f-8097e5c8280e" name="Changes" comment="" />
+      <created>1794404014280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794404014280</updated>
+      <workItem from="1794404015325" duration="1515000" />
+      <workItem from="1794405544296" duration="3662000" />
+      <workItem from="1794409231537" duration="2950000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
